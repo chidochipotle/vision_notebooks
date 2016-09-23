@@ -1,0 +1,17 @@
+face_id/
+img/
+old_img/
+random10/
+random10_cropped/
+high_cl/
+low_cl/
+photos/
+random1000/
+random10_highlighted/
+test_images/
+imgs/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+
+*.html
